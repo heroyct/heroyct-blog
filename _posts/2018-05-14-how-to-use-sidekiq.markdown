@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Use Sidekiq"
+title:  "sidekiqの使い方"
 date:   2018-05-14 16:10:33 +0900
 categories: sidekiq
 ---
